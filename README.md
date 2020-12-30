@@ -23,10 +23,10 @@ Just a sidebar navigation with React.js, React Icons and Router.
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/lrdplopes/realchat_nodejs
+    $ git clone https://github.com/lrdplopes/navigation-sidebar-reactjs
 
     #Acessar o repositório
-    $ cd realchat_nodejs
+    $ cd navigation-sidebar-reactjs
 
     #Instalar suas dependências
     $yarn install
