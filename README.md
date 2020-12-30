@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./public/sidebar_react.png" alt="drawing" width="250">
+    <img src="./public/sidebar_react.png" alt="drawing" width="500">
 </h1>
 
 ---
